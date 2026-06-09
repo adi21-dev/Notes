@@ -1,0 +1,7 @@
+[[python]]
+[[database]]
+[[docker]]
+[[software design best practices]]
+[[rest http and microservices]]
+[[aws cloud]]
+[[ci-cd]]
