@@ -1,0 +1,8 @@
+[[01_Python]]
+[[02_database]]
+[[03_docker]]
+[[04_software design best practices]]
+[[rest http and microservices]]
+[[aws cloud]]
+[[ci-cd]]
+[[ml-genai]]

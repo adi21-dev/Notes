@@ -1,0 +1,24 @@
+- [ ] constant folding (optimization technique)
+- [ ] reference counting
+- [ ] name binding, rebinding, mutation
+- [ ] namespace (legb rule) - can be viewed using locals(), globals()
+- [ ] integer interning (a is b)
+- [ ] list, dictionary comprehension
+- [ ] short circuit evalueation
+- [ ] higher order function
+- [ ] closure, decorator
+- [ ] callable objects (using `__call__`)
+- [ ] method binding
+- [ ] mro
+- [ ] poetry vs uv vs pip
+- [ ] python class myclass(var="something")
+- [ ] weakref
+- [ ] alembic
+- [ ] jsonresponse and pydantic reponse
+- [ ] tortoise orm
+- [ ] openapi spec
+- [ ] owasp
+- [ ] rag dimension, distance what if we reduce it
+- [ ] how frontend is connect to backend
+- [ ] nginx backend serving or frontend serving (serves frontend - static file and provides proxy to backend)
+- [ ] 
